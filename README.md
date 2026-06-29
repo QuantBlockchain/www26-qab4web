@@ -1,4 +1,4 @@
-# AI-Enhanced Quantum-Safe Blockchains for the Web
+# Quantum-Safe, Efficient, and AI-Enhanced Blockchains for the Web
 ## A Cooperative Tutorial on Quantum Computing, Blockchain Applications, and Data Standards
 
 **ACM Web Conference 2026 (WWW Companion '26)** — Online Session  
