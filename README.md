@@ -7,6 +7,7 @@
 
 [![Conference Schedule](https://img.shields.io/badge/WWW%2026-Full%20Schedule-8A2BE2)](https://www2026.thewebconf.org/program/full-schedule.html)
 [![Accepted Tutorials](https://img.shields.io/badge/WWW%2026-Accepted%20Tutorials-0066CC)](https://www2026.thewebconf.org/accepted/tutorials.html)
+[![ACM Digital Library](https://img.shields.io/badge/ACM%20DL-10.1145%2F3774905.3793916-004d99?logo=acm)](https://dl.acm.org/doi/10.1145/3774905.3793916)
 
 ---
 
