@@ -11,6 +11,12 @@
 
 ---
 
+## Teaser Figure
+
+![Tutorial teaser figure: quantum computing, blockchain interoperability, and AI agent applications for the web.](./figures/tutorial-teaser.svg)
+
+---
+
 ## Agenda
 
 | Time | Segment | Speaker | Resources |

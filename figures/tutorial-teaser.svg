@@ -1,0 +1,148 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+  <title id="title">WWW 2026 Tutorial Teaser Figure</title>
+  <desc id="desc">Collaborative tutorial map showing Quantum, AI, and Blockchain as connected pillars for the Web through efficiency, shared standards, and interoperability.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070f22"/>
+      <stop offset="52%" stop-color="#13335a"/>
+      <stop offset="100%" stop-color="#0e5c61"/>
+    </linearGradient>
+    <radialGradient id="halo1" cx="0.2" cy="0.08" r="0.7">
+      <stop offset="0%" stop-color="#65d3ff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#65d3ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="halo2" cx="0.9" cy="0.9" r="0.65">
+      <stop offset="0%" stop-color="#9af6cb" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#9af6cb" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.17"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0.06"/>
+    </linearGradient>
+    <linearGradient id="chip" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#80e6ff"/>
+      <stop offset="100%" stop-color="#a5ffd6"/>
+    </linearGradient>
+    <radialGradient id="webSphere" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#f2fdff" stop-opacity="0.95"/>
+      <stop offset="45%" stop-color="#bdefff" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#87d7ff" stop-opacity="0.18"/>
+    </radialGradient>
+    <linearGradient id="webRim" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0fdff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#bdeeff" stop-opacity="0.75"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    <marker id="arr" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L11,5.5 L0,11 z" fill="#d6f8ff"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <rect width="1200" height="675" fill="url(#halo1)"/>
+  <rect width="1200" height="675" fill="url(#halo2)"/>
+
+  <text x="60" y="78" fill="#edf8ff" font-size="40" font-family="Verdana, sans-serif" font-weight="700">Quantum-Safe, Efficient, AI-Enhanced</text>
+  <text x="60" y="118" fill="#edf8ff" font-size="40" font-family="Verdana, sans-serif" font-weight="700">Blockchain for the Web</text>
+  <text x="60" y="150" fill="#c6e7f8" font-size="20" font-family="Verdana, sans-serif">Collaborative tutorial: Quantum &lt;-&gt; AI &lt;-&gt; Blockchain, integrated for the Web</text>
+
+  <g opacity="0.92">
+    <circle cx="1030" cy="88" r="12" fill="#c8eeff"/>
+    <circle cx="1095" cy="58" r="12" fill="#d8ffe9"/>
+    <circle cx="1148" cy="108" r="12" fill="#ffeac2"/>
+    <circle cx="1092" cy="108" r="10" fill="#effbff"/>
+    <path d="M1030 88 L1092 108 L1148 108 L1095 58 Z" fill="none" stroke="#e8fbff" stroke-width="2"/>
+    <path d="M1030 88 L1095 58" fill="none" stroke="#e8fbff" stroke-width="2"/>
+    <circle cx="1118" cy="82" r="7" fill="#d9f6ff" opacity="0.95"/>
+    <circle cx="1062" cy="124" r="7" fill="#e3ffef" opacity="0.95"/>
+    <path d="M1118 82 L1148 108" fill="none" stroke="#e8fbff" stroke-width="1.8"/>
+    <path d="M1062 124 L1092 108" fill="none" stroke="#e8fbff" stroke-width="1.8"/>
+    <path d="M1038 72 C1060 58, 1082 58, 1104 72" fill="none" stroke="#d7f7ff" stroke-width="1.6" opacity="0.9"/>
+    <path d="M1104 124 C1120 136, 1136 136, 1152 124" fill="none" stroke="#d7f7ff" stroke-width="1.6" opacity="0.9"/>
+    <rect x="1162" y="58" width="14" height="14" rx="3" fill="none" stroke="#dff8ff" stroke-width="1.6"/>
+    <rect x="1182" y="74" width="14" height="14" rx="3" fill="none" stroke="#dff8ff" stroke-width="1.6"/>
+    <rect x="1162" y="90" width="14" height="14" rx="3" fill="none" stroke="#dff8ff" stroke-width="1.6"/>
+    <path d="M1176 65 L1182 74" fill="none" stroke="#dff8ff" stroke-width="1.4"/>
+    <path d="M1176 97 L1182 88" fill="none" stroke="#dff8ff" stroke-width="1.4"/>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="210" width="320" height="210" rx="24" fill="url(#card)" stroke="#90dcff" stroke-opacity="0.95"/>
+    <rect x="440" y="210" width="320" height="210" rx="24" fill="url(#card)" stroke="#b5f7da" stroke-opacity="0.95"/>
+    <rect x="810" y="210" width="320" height="210" rx="24" fill="url(#card)" stroke="#ffe2a3" stroke-opacity="0.95"/>
+  </g>
+
+  <g stroke="#c8edff" fill="none" stroke-width="1.7" opacity="0.95">
+    <ellipse cx="350" cy="250" rx="18" ry="7"/>
+    <ellipse cx="350" cy="250" rx="18" ry="7" transform="rotate(60 350 250)"/>
+    <ellipse cx="350" cy="250" rx="18" ry="7" transform="rotate(-60 350 250)"/>
+    <circle cx="350" cy="250" r="3" fill="#c8edff"/>
+  </g>
+
+  <g stroke="#d8ffee" fill="none" stroke-width="1.7" opacity="0.95">
+    <circle cx="720" cy="236" r="3.8" fill="#d8ffee"/>
+    <circle cx="703" cy="250" r="3.8" fill="#d8ffee"/>
+    <circle cx="737" cy="250" r="3.8" fill="#d8ffee"/>
+    <circle cx="720" cy="264" r="3.8" fill="#d8ffee"/>
+    <path d="M720 236 L703 250 L720 264 L737 250 Z"/>
+    <path d="M720 236 L737 250"/>
+    <path d="M703 250 L737 250"/>
+  </g>
+
+  <g stroke="#ffeec7" fill="none" stroke-width="1.7" opacity="0.95">
+    <rect x="1060" y="236" width="14" height="14" rx="3"/>
+    <rect x="1082" y="246" width="14" height="14" rx="3"/>
+    <rect x="1104" y="236" width="14" height="14" rx="3"/>
+    <path d="M1074 243 L1082 251"/>
+    <path d="M1096 251 L1104 243"/>
+  </g>
+
+  <text x="230" y="286" text-anchor="middle" fill="#e6f6ff" font-size="32" font-family="Verdana, sans-serif" font-weight="700">Quantum</text>
+  <text x="230" y="318" text-anchor="middle" fill="#d7f0ff" font-size="20" font-family="Verdana, sans-serif">Computing</text>
+  <text x="230" y="350" text-anchor="middle" fill="#d9eeff" font-size="16" font-family="Verdana, sans-serif">Algorithms and Hardware</text>
+  <text x="230" y="372" text-anchor="middle" fill="#d9eeff" font-size="16" font-family="Verdana, sans-serif">Cloud and Hybrid Execution</text>
+  <text x="230" y="394" text-anchor="middle" fill="#d9eeff" font-size="16" font-family="Verdana, sans-serif">Quantum-Safe Foundations</text>
+
+  <text x="600" y="286" text-anchor="middle" fill="#edfff8" font-size="32" font-family="Verdana, sans-serif" font-weight="700">AI</text>
+  <text x="600" y="318" text-anchor="middle" fill="#e4fff4" font-size="20" font-family="Verdana, sans-serif">Agents and Data</text>
+  <text x="600" y="350" text-anchor="middle" fill="#e3fff2" font-size="16" font-family="Verdana, sans-serif">MCP and Open Data Pipelines</text>
+  <text x="600" y="372" text-anchor="middle" fill="#e3fff2" font-size="16" font-family="Verdana, sans-serif">Data Standards for AI</text>
+  <text x="600" y="394" text-anchor="middle" fill="#e3fff2" font-size="16" font-family="Verdana, sans-serif">Collaborative Intelligence</text>
+
+  <text x="970" y="286" text-anchor="middle" fill="#fff7e3" font-size="32" font-family="Verdana, sans-serif" font-weight="700">Blockchain</text>
+  <text x="970" y="318" text-anchor="middle" fill="#fff1d6" font-size="20" font-family="Verdana, sans-serif">Interoperability</text>
+  <text x="970" y="350" text-anchor="middle" fill="#fff0d7" font-size="16" font-family="Verdana, sans-serif">Cross-Chain Data Standards</text>
+  <text x="970" y="372" text-anchor="middle" fill="#fff0d7" font-size="16" font-family="Verdana, sans-serif">Quantum-Safe Cryptography</text>
+  <text x="970" y="394" text-anchor="middle" fill="#fff0d7" font-size="16" font-family="Verdana, sans-serif">Verifiable Web Trust</text>
+
+  <circle cx="600" cy="500" r="42" fill="url(#webSphere)" stroke="url(#webRim)" stroke-width="2.2"/>
+  <ellipse cx="594" cy="488" rx="17" ry="10" fill="#ffffff" fill-opacity="0.18"/>
+  <ellipse cx="608" cy="514" rx="30" ry="10" fill="#7ecdf2" fill-opacity="0.10"/>
+  <g stroke="#e9fdff" stroke-width="1.4" fill="none" opacity="0.95">
+    <ellipse cx="600" cy="500" rx="28" ry="11"/>
+    <ellipse cx="600" cy="500" rx="20" ry="31"/>
+    <ellipse cx="600" cy="500" rx="10" ry="31"/>
+    <path d="M572 500 H628"/>
+    <path d="M578 488 H622" opacity="0.75"/>
+    <path d="M578 512 H622" opacity="0.75"/>
+  </g>
+  <text x="656" y="508" text-anchor="start" fill="#ffffff" font-size="24" font-family="Verdana, sans-serif" font-weight="700">Web</text>
+
+  <path d="M230 420 C230 448, 340 460, 555 468" stroke="#d4f8ff" stroke-width="3" fill="none" marker-end="url(#arr)"/>
+  <path d="M600 420 C600 446, 600 452, 600 462" stroke="#d4f8ff" stroke-width="3" fill="none" marker-end="url(#arr)"/>
+  <path d="M970 420 C970 448, 860 460, 645 468" stroke="#d4f8ff" stroke-width="3" fill="none" marker-end="url(#arr)"/>
+
+  <rect x="80" y="568" width="1040" height="94" rx="28" fill="#ffffff" fill-opacity="0.12" stroke="#d7f7ff" stroke-opacity="0.75"/>
+  <rect x="104" y="581" width="484" height="30" rx="15" fill="url(#chip)"/>
+  <rect x="612" y="581" width="484" height="30" rx="15" fill="url(#chip)"/>
+  <rect x="104" y="620" width="484" height="30" rx="15" fill="url(#chip)"/>
+  <rect x="612" y="620" width="484" height="30" rx="15" fill="url(#chip)"/>
+
+  <text x="346" y="601" text-anchor="middle" fill="#093847" font-size="15" font-family="Verdana, sans-serif" font-weight="700">Demo 1: QSignAI</text>
+  <text x="854" y="601" text-anchor="middle" fill="#093847" font-size="15" font-family="Verdana, sans-serif" font-weight="700">Demo 2: Quantum Futures Interactive</text>
+  <text x="346" y="640" text-anchor="middle" fill="#093847" font-size="15" font-family="Verdana, sans-serif" font-weight="700">Demo 3: Quantum Cinema</text>
+  <text x="854" y="640" text-anchor="middle" fill="#093847" font-size="15" font-family="Verdana, sans-serif" font-weight="700">Talks and Q&amp;A</text>
+</svg>
