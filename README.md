@@ -1,4 +1,4 @@
-# Quantum-Safe, Efficient, and AI-Enhanced Blockchains for the Web
+# Quantum-Safe, Efficient, and AI-Enhanced Blockchains for the Web [![DOI](https://img.shields.io/badge/Zenodo-10.5281/zenodo.21031421-blue?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.21031421)
 ## A Cooperative Tutorial on Quantum Computing, Blockchain Applications, and Data Standards
 
 **ACM Web Conference 2026 (WWW Companion '26)** — Online Session  
