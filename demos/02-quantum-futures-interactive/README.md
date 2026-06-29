@@ -6,6 +6,7 @@ This folder indexes materials for the Quantum Futures Interactive demo in the WW
 
 - arXiv: https://arxiv.org/abs/2605.15991
 - GitHub: https://github.com/QuantBlockchain/qc-bc-interactive
+- UI: https://d375odhl9u0dsz.cloudfront.net/
 
 ## Notes
 

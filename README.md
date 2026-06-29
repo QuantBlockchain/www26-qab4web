@@ -21,9 +21,9 @@
 
 | Time | Segment | Speaker | Resources |
 |:---|:---|:---|:---|
-| 14:00–14:30 | QSignAI Demo | All | [arXiv](https://arxiv.org/abs/2605.27729) · [GitHub](https://github.com/QuantBlockchain/QSignAI) · [![UI](https://img.shields.io/badge/UI-QSignAI%20Wall-0A66C2)](https://qsignai.com/wall/qsignai-www) |
-| 14:30–15:00 | Quantum Futures Interactive (QFI) Demo | All | [arXiv](https://arxiv.org/abs/2605.15991) · [GitHub](https://github.com/QuantBlockchain/qc-bc-interactive) · [![UI](https://img.shields.io/badge/UI-Interactive-0A66C2)](https://d375odhl9u0dsz.cloudfront.net/) |
-| 15:00–15:30 | Quantum Cinema Demo | All | [arXiv](https://arxiv.org/abs/2606.17102) · [GitHub](https://github.com/QuantBlockchain/quantum-cinema) · [![UI](https://img.shields.io/badge/UI-Cinema-0A66C2)](https://d3ospai7r368nk.cloudfront.net/) |
+| 14:00–14:30 | QSignAI Demo | All | [`demos/01-qsignai/`](https://github.com/QuantBlockchain/www26-qab4web/tree/main/demos/01-qsignai) |
+| 14:30–15:00 | Quantum Futures Interactive (QFI) Demo | All | [`demos/02-quantum-futures-interactive/`](https://github.com/QuantBlockchain/www26-qab4web/tree/main/demos/02-quantum-futures-interactive) |
+| 15:00–15:30 | Quantum Cinema Demo | All | [`demos/03-quantum-cinema/`](https://github.com/QuantBlockchain/www26-qab4web/tree/main/demos/03-quantum-cinema) |
 | 15:30–16:00 | Quantum Computing and Cloud Infrastructure for the Web | Aoyu Zhang | [`talks/04-aoyu-quantum-cloud/`](./talks/04-aoyu-quantum-cloud/) |
 | 16:00–16:30 | Open Data, MCP, and AI Agent Applications for the Web | Dongping Liu | [`talks/05-dongping-open-data-mcp/`](./talks/05-dongping-open-data-mcp/) |
 | 16:30–17:00 | Quantum Computing, Data Standard, and Blockchain Interoperability for the Web | Luyao Zhang | [`talks/06-luyao-quantum-standard-interop/`](./talks/06-luyao-quantum-standard-interop/) |
